@@ -15,6 +15,8 @@ Uses:
 - StatusCol
 - Conform
 - Dashboard NVIM
+- Lua Snip
+- cmp-nvim-lsp
 
 Works well for:
 
