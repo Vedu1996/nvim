@@ -1,5 +1,7 @@
 # My NeoVim Config
 
+## VIC - \[V\]im \[I\]DE, made \[C\]ool
+
 Inspired by [typecraft](https://www.youtube.com/watch?v=zHTeCSVAFNY&list=PLsz00TDipIffreIaUNk64KxTIkQaGguqn&index=1)
 
 Uses:
@@ -12,6 +14,7 @@ Uses:
 - LSP Config
 - StatusCol
 - Conform
+- Dashboard NVIM
 
 Works well for:
 
